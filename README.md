@@ -12,4 +12,7 @@ React
 Node
 Hosting: AWS Free Tier or Firebase
 
+npm version: 11.0.0
+Vite version: 6.0.11
+
 (Node) Packages:
